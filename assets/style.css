@@ -1,0 +1,45 @@
+body {
+	background-color: #444444;
+}
+section {
+	border: 3px solid #88888B;
+	padding: 20px
+}
+hr {
+	color: #88888B;
+}
+h1 {
+	font-family: serif;
+	font-style: italic;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+h2 {
+	font-family: sans-serif;
+	color: white;
+}
+p {
+	font-family: serif;
+	color: white;
+}
+a {
+	color: #10AD81
+}
+ul {
+	text-align: center;
+}
+li {
+	display: inline;
+	font-family: sans-serif;
+	color: white;
+}
+img {
+	border: 2px solid #88888B;
+	border-radius: 2px;
+	padding: 3px;
+	overflow: scroll;
+}
+.spacer {
+	color: #88888B
+}
